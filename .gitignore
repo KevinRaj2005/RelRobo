@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+relrobo-env/
+
+# Database
+db.sqlite3
+
+# Node / frontend
+node_modules/
+dist/
+build/
+

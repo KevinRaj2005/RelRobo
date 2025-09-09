@@ -1,0 +1,175 @@
+[
+    {
+        "id": 1,
+        "title": "Network Folder Mapping",
+        "steps": [
+            "Right-click on This PC icon.",
+            "Click on Map network drive.",
+            "Enter the network folder path in the address bar.",
+            "Click Finish."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Guest Wi-Fi Connectivity",
+        "steps": [
+            "Click on the Wi-Fi icon in the taskbar.",
+            "Select Hidden Network, then click Connect.",
+            "Enter the SSID: RCB_G (for Guest Wi-Fi).",
+            "Enter the Guest Wi-Fi password (provided daily by the IT team).",
+            "Click Next to connect."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Proxy Configuration and Access Issues",
+        "steps": [
+            "Press Windows + R, type inetcpl.cpl, and press Enter.",
+            "Go to the Connections tab → Click on LAN Settings.",
+            "Check Use a proxy server for your LAN.",
+            "Enter the proxy: Address: 10.123.12.132, Port: 8080.",
+            "Ensure Bypass proxy server for local addresses is checked.",
+            "Connect to Domain Wi-Fi."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Local Server Folder Mapping",
+        "steps": [
+            "Right-click on This PC icon.",
+            "Click on Map network drive.",
+            "Enter the local server folder path.",
+            "Click Finish."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Internet Connectivity Problems",
+        "steps": [
+            "For Domain Wi-Fi: Ensure proxy settings are enabled.",
+            "For Home Network: Disable Use a proxy server for your LAN.",
+            "Connect to your Home Wi-Fi."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "System Boot / Power-On Issues",
+        "steps": [
+            "Desktop: Check power cable, press and hold Power button.",
+            "Laptop: Ensure battery is charged/charger connected, press and hold Power button.",
+            "If device doesn't start, contact IT Helpdesk Team."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Domain Login Problems",
+        "steps": [
+            "Confirm Domain Username and Password are correct.",
+            "Avoid more than 3 incorrect attempts (to prevent account lock).",
+            "For unlock/reset, contact IT Helpdesk Team."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Lotus Mail Password Issues",
+        "steps": [
+            "Confirm HCL Notes Username and Password are correct.",
+            "Accounts may lock after 3 incorrect attempts or 10 days inactivity.",
+            "To unlock/reset, contact IT Helpdesk or email via HCL Verse mobile app."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Creating New Archive Files in Lotus Notes",
+        "steps": [
+            "Open HCL Notes → Inbox.",
+            "Click Actions → Archive → Create Criteria.",
+            "Enter name in Descriptive Name.",
+            "Enable checkbox Enable this criteria.",
+            "Select folder path to save archive, enter same name.",
+            "Click Select → OK → Yes → OK.",
+            "Archive folder is now created."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Software Installation or Malfunction",
+        "steps": [
+            "Contact IT Helpdesk for software installation.",
+            "Restart the application/system for basic troubleshooting.",
+            "If issue persists, contact IT Team."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "DSC (Digital Signature Certificate) Errors",
+        "steps": [
+            "Restart DSC software/system.",
+            "If unresolved, contact IT Team."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Webmail Password Setup and Reset",
+        "steps": [
+            "Use the following link to set/change/reset Webmail/PR Tracker/HCL Verse password:",
+            "http://icpm.relianceada.com/Projects/Admin/Password//Password.nsf/xpIndex.xsp"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "FortiClient VPN Connectivity or Login Issues",
+        "steps": [
+            "Ensure Proxy is disabled.",
+            "Connect to Home Network.",
+            "Confirm Domain Credentials are valid.",
+            "If VPN fails, contact IT Helpdesk or email via HCL Verse mobile app."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Mail box full issue",
+        "steps": [
+            "Open HCL Notes → Inbox.",
+            "Click Actions → Archive → Create Criteria.",
+            "Enter name in Descriptive Name.",
+            "Enable checkbox Enable this criteria.",
+            "Select folder path to save archive, enter same name.",
+            "Click Select → OK → Yes → OK.",
+            "Archive folder is now created."
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Admin access",
+        "steps": [
+            "For Admin acesss Try contacting IT support",
+            "Contact details: 4444",
+            "Mail: Reliance.ITSupport@relianceindiagroup.com "
+        ]
+    },
+    {
+        "id": 16,
+        "title": "IT Support Contact",
+        "steps": [
+            "For IT support details",
+            "Contact details: 4444"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Network Path drive",
+        "steps": [
+            "For Network path drive link try contacting the IT Support team for further details regarding it",
+            "Contact details: 4444"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "USB access",
+        "steps": [
+            "For USB access and requirement Try contacting the IT Support team for further access",
+            "Contact details: 4444"
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "keywords": [
+      "event",
+      "visitor",
+      "seating",
+      "arrangement",
+      "shift"
+    ],
+    "response": {
+      "Dept": "Event / Visitor Support / Seating Arrangement / Shift",
+      "Ext No": "4011",
+      "Contact Person": "Admin Head",
+      "Contact": "022-43034011",
+      "Email": "Milind Bagkar/REL/RelianceADA"
+    }
+  },
+  {
+    "keywords": [
+      "courier",
+      "mail",
+      "dispatch",
+      "office supplies",
+      "stationery"
+    ],
+    "response": {
+      "Dept": "Courier & Mail Management / Office Supplies",
+      "Ext No": "4022",
+      "Contact Person": "Courier / Stationery",
+      "Contact": "022-43034022",
+      "Email": "Dispatch RelianceCentre/Services/RCL/RelianceADA"
+    }
+  },
+  {
+    "keywords": [
+      "coffee",
+      "ccd",
+      "cafe",
+      "tea"
+    ],
+    "response": {
+      "Dept": "CCD - Coffee Café Day",
+      "Ext No": "4024",
+      "Contact Person": "",
+      "Contact": "022-43034024",
+      "Email": "NA"
+    }
+  },
+  {
+    "keywords": [
+      "maintenance",
+      "repairs",
+      "desk",
+      "chair",
+      "allocation",
+      "carpenter"
+    ],
+    "response": {
+      "Dept": "Maintenance & Repairs / Desk / Chair Allocation",
+      "Ext No": "4024",
+      "Contact Person": "Carpenter",
+      "Contact": "022-43034024",
+      "Email": "NA"
+    }
+  },
+  {
+    "keywords": [
+      "ac",
+      "air conditioner",
+      "cooling",
+      "temperature",
+      "hvac",
+      "bms"
+    ],
+    "response": {
+      "Dept": "Air Conditioner (BMS)",
+      "Ext No": "4009",
+      "Contact Person": "",
+      "Contact": "022-43034009",
+      "Email": "Mep Rcb/REL/RelianceADA@INFOCOMM"
+    }
+  },
+  {
+    "keywords": [
+      "electrician",
+      "electric",
+      "power",
+      "socket",
+      "plug",
+      "wiring"
+    ],
+    "response": {
+      "Dept": "Electrician",
+      "Ext No": "4008",
+      "Contact Person": "",
+      "Contact": "022-43034008",
+      "Email": "Bms Rcb/Services/REL/RelianceADA@INFOCOMM"
+    }
+  },
+  {
+    "keywords": [
+      "meeting",
+      "book room",
+      "conference",
+      "schedule meeting",
+      "reserve room",
+      "meeting hall",
+      "discussion room",
+      "reserve meeting room"
+    ],
+    "response": {
+      "Dept": "Meeting Room Booking",
+      "Ext No": "4001",
+      "Contact Person": "Reception (Board)",
+      "Contact": "022-43034001",
+      "Email": "Security Reliancecentre/Services/RCL/RelianceADA",
+      "BookingLink": "https://your-meeting-room-booking-portal"
+    }
+  },
+  {
+    "keywords": [
+      "id card",
+      "access card",
+      "identity card",
+      "lost id",
+      "id request",
+      "entry card"
+    ],
+    "response": {
+      "Dept": "ID Card / Access Card Requests",
+      "Ext No": "4003",
+      "Contact Person": "Security",
+      "Contact": "022-43034003",
+      "Email": "Security Reliancecentre/Services/RCL/RelianceADA"
+    }
+  },
+  {
+    "keywords": [
+      "cafeteria",
+      "canteen",
+      "food",
+      "lunch",
+      "snacks",
+      "tea",
+      "coffee"
+    ],
+    "response": {
+      "Dept": "Cafeteria",
+      "Ext No": "4005",
+      "Contact Person": "",
+      "Contact": "022-43034005",
+      "Email": "um.rcballardestate@afoozo.com"
+    }
+  },
+  {
+    "keywords": [
+      "housekeeping",
+      "cleanliness",
+      "waste",
+      "disposal",
+      "e-waste",
+      "trash",
+      "bin",
+      "dustbin"
+    ],
+    "response": {
+      "Dept": "Housekeeping & Cleanliness / Waste Disposal / E-waste",
+      "Ext No": "4006",
+      "Contact Person": "Housekeeping",
+      "Contact": "022-43034006",
+      "Email": "um.rcballardestate@afoozo.com"
+    }
+  },
+  {
+    "keywords": [
+      "device",
+      "laptop",
+      "pc",
+      "computer",
+      "desktop",
+      "it support",
+      "device allotment"
+    ],
+    "response": {
+      "Dept": "Device Allotment",
+      "Ext No": "4444",
+      "Contact Person": "IT Team / IT Network Team",
+      "Contact": "022-43034444",
+      "Email": "Reliance ITSupport/REL/RelianceADA"
+    }
+  }
+]

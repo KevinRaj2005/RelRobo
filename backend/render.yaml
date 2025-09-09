@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: relrobo-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn main:app --workers 4 --bind 0.0.0.0:10000 -k uvicorn.workers.UvicornWorker"

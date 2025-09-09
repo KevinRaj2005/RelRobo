@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "Leave Application Process",
+        "steps": [
+            "Login to the HR Portal with your employee credentials.",
+            "Navigate to the Leave section.",
+            "Select leave type and dates.",
+            "Submit your leave request for manager approval."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Salary Slip Download",
+        "steps": [
+            "Login to the HR Portal.",
+            "https://ess.rel.co.in/irj/portal",
+            "Go to the Payroll/Salary section.",
+            "Choose the month/year.",
+            "Click on Download Salary Slip."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Reimbursement Claim",
+        "steps": [
+            "Login to the HR Portal.",
+            "Click on Reimbursements.",
+            "Upload scanned bills/receipts.",
+            "Submit for approval."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Policy Queries",
+        "steps": [
+            "Refer to the HR Handbook uploaded on the HR Portal.",
+            "http://10.8.61.42/it-zone/general-policies/",
+            "If unanswered, contact the HR Helpdesk."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Onboarding Documents",
+        "steps": [
+            "Submit PAN, Aadhaar, Bank details, and educational certificates to HR.",
+            "Check onboarding checklist in the HR Portal.",
+            "Contact HR if any documents are missing."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "holidays",
+        "steps": [
+            "Refer to the HR Handbook uploaded on the HR Portal.",
+            "If unanswered, contact the HR Helpdesk."
+        ]
+    }
+]

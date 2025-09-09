@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "John Smith",
+        "department": "IT",
+        "extension": "4444",
+        "email": "john.smith@rcb.com",
+        "mobile": "+91-9876543210"
+    },
+    {
+        "id": "2",
+        "name": "Mary Johnson",
+        "department": "HR",
+        "extension": "5555",
+        "email": "mary.johnson@rcb.com",
+        "mobile": "+91-9876543211"
+    },
+    {
+        "id": "3",
+        "name": "David Wilson",
+        "department": "Admin",
+        "extension": "6666",
+        "email": "david.wilson@rcb.com",
+        "mobile": "+91-9876543212"
+    },
+    {
+        "id": "4",
+        "name": "Sarah Davis",
+        "department": "Finance",
+        "extension": "7777",
+        "email": "sarah.davis@rcb.com",
+        "mobile": "+91-9876543213"
+    },
+    {
+        "id": "5",
+        "name": "Michael Brown",
+        "department": "Security",
+        "extension": "4003",
+        "email": "michael.brown@rcb.com",
+        "mobile": "+91-9876543214"
+    },
+    {
+        "id": "6",
+        "name": "Lisa Garcia",
+        "department": "Facilities",
+        "extension": "4024",
+        "email": "lisa.garcia@rcb.com",
+        "mobile": "+91-9876543215"
+    },
+    {
+        "id": "7",
+        "name": "Robert Miller",
+        "department": "IT Support",
+        "extension": "4652",
+        "email": "robert.miller@rcb.com",
+        "mobile": "+91-9876543216"
+    },
+    {
+        "id": "8",
+        "name": "Jennifer Taylor",
+        "department": "Admin Support",
+        "extension": "4022",
+        "email": "jennifer.taylor@rcb.com",
+        "mobile": "+91-9876543217"
+    },
+    {
+        "id": "9",
+        "name": "William Anderson",
+        "department": "Maintenance",
+        "extension": "4006",
+        "email": "william.anderson@rcb.com",
+        "mobile": "+91-9876543218"
+    },
+    {
+        "id": "10",
+        "name": "Amanda Thomas",
+        "department": "Cafeteria",
+        "extension": "4005",
+        "email": "amanda.thomas@rcb.com",
+        "mobile": "+91-9876543219"
+    }
+]
