@@ -1,26 +1,8 @@
-# Web framework & API
 fastapi
 uvicorn
-gunicorn
-
-# HTTP requests
-requests
-
-# Data handling
-numpy
 pydantic
-python-dotenv
-
-# NLP & semantic search
+numpy
 sentence-transformers
 faiss-cpu
 rapidfuzz
-
-# Database
-mariadb
-
-# Web scraping
-beautifulsoup4
-
-# Optional (if you want type hints checking support)
-typing-extensions
+requests
